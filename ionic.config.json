@@ -1,0 +1,7 @@
+{
+  "name": "revision_app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
